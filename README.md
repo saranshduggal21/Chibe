@@ -1,2 +1,2 @@
 # Chibe
-This is a cloud-messaging app that is built using Swift, Ruby, Firebase, that allows users to chat and vibe with their friends and family. 
+This is a cloud-messaging app that is built using Swift, Ruby, Cloud Firestore and Firebase Authentication, that allows users to chat and vibe with their friends and family. 
